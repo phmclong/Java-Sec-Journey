@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3a3a2330-1440-4188-a480-9e94602bc2df" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../cc3-chain-from-scratch/src/main/java/org/example/CC3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jackson-learn/cve-2017-7525/src/main/java/org/example/PoC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jackson-learn/cve-2017-7525/src/main/java/org/example/SimpleCalc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jackson-learn/cve-2017-7525/src/main/java/org/example/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cc1-chain-from-scratch/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cc1-chain-from-scratch/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cc1-chain-from-scratch/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cc1-chain-from-scratch/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dynamic-class-loader/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dynamic-class-loader/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dynamic-class-loader/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jackson/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jackson/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jackson/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jackson/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jackson/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jackson/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jackson/src/main/java/org/example/Hacker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jackson/src/main/java/org/example/JacksonTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jackson/src/main/java/org/example/JsonTypeInfo/JsonTypeInfo_Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jackson/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jackson/src/main/java/org/example/MySex.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jackson/src/main/java/org/example/MySex2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jackson/src/main/java/org/example/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jackson/src/main/java/org/example/Person2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jackson/src/main/java/org/example/Person3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jackson/src/main/java/org/example/Sex.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jackson/src/main/java/org/example/defaultTyping/JAVA_LANG_OBJECT/JAVA_LANG_OBJECT_Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jackson/src/main/java/org/example/defaultTyping/JAVA_LANG_OBJECT/No_JAVA_LANG_OBJECT_Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jackson/src/main/java/org/example/defaultTyping/NON_CONCRETE_AND_ARRAYS/NON_CONCRETE_AND_ARRAYS_Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jackson/src/main/java/org/example/defaultTyping/NON_FINAL/NON_FINAL_Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jackson/src/main/java/org/example/defaultTyping/OBJECT_AND_NON_CONCRETE/OBJECT_AND_NON_CONCRETE_Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jackson/src/main/java/org/example/deserialization/DeserializationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jackson/src/main/java/org/example/deserialization/DeserializationTest2.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="3ELfuSkiqfAsH7NbkcIXGW8Itdl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/mac/Desktop/0.it-project/sec_project/0.java-sec/Java-Sec-Journey/cc2-chain-from-scratch",
+    "settings.editor.selected.configurable": "com.poratu.idea.plugins.tomcat.setting.TomcatServersConfigurable"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a3a2330-1440-4188-a480-9e94602bc2df" name="Changes" comment="" />
+      <created>1779962992522</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1779962992522</updated>
+    </task>
+    <servers />
+  </component>
+</project>
